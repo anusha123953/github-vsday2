@@ -1,3 +1,3 @@
-# this is your first readme file 
+# this is a greeting message! 
 
 #welcome to coastal  valley of manga
